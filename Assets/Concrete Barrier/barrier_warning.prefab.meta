@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a8da0069ca32b8e4c93afdca28905e9f
+timeCreated: 1476543790
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 72966
+  packageName: Free Concrete & Plastic Barrier
+  packageVersion: 1.3
+  assetPath: Assets/Concrete Barrier/barrier_warning.prefab
+  uploadId: 154086

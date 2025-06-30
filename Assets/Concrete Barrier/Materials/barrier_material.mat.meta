@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1d57c244435180548add6410cabff9c2
+timeCreated: 1475587847
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 72966
+  packageName: Free Concrete & Plastic Barrier
+  packageVersion: 1.3
+  assetPath: Assets/Concrete Barrier/Materials/barrier_material.mat
+  uploadId: 154086
